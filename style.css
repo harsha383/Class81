@@ -1,0 +1,15 @@
+#body_background {
+    background-image: url("Background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    font-size: 40px;
+    font-family: fantasy;
+    color: red;
+}
+#myCanvas {
+    border-width: 10px;
+    border-color: white;
+    border-style: ridge;
+}
